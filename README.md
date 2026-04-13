@@ -2,7 +2,7 @@
 # 🩺 Kidney Hub – Patient Churn & Retention Analysis
 
 ## 📊 Project Overview
-This project analyzes patient retention and churn in a healthcare environment, modeled as a SaaS-style subscription business.
+This project analyzes patient retention and churn in a healthcare environment, modeled as a SaaS-style subscription business for Kidney Hub.
 
 The goal is to identify:
 - Why patients stop treatment (churn)
